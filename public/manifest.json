@@ -1,0 +1,19 @@
+{
+  "id": "/",
+  "name": "Smart Vent",
+  "short_name": "SmartVent",
+  "description": "Private digital dumping ground that intelligently organizes whatever you dump into it.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0a0d12",
+  "theme_color": "#0a0d12",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Smart Vent",
+  "description": "A private digital dumping ground that intelligently understands, organizes, categorizes, connects, and surfaces whatever you throw into it — without requiring you to organize first.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
